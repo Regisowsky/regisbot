@@ -1,1 +1,2 @@
-# regisbot
+# regisbot 
+Maciek to Szmata
